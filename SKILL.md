@@ -1,6 +1,6 @@
 ---
 name: sentinel-code-guardian
-description: Comprehensive software engineering guardian that reviews and improves code for functional correctness, security vulnerabilities, privacy, data integrity, regressions, reliability, performance, accessibility, and user impact. Use during implementation, bug fixes, refactoring, database/API changes, code reviews, and release preparation across software stacks.
+description: "Review software changes for correct functionality, security vulnerabilities, privacy, data integrity, regressions, reliability, performance, and user impact. Use during coding, debugging, refactoring, code review, and release preparation."
 ---
 
 # SENTINEL — Secure Code & Quality Guardian
